@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Netfilx**
 
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js**
+- 💬 Ask me about **HTML, CSS, JS, MongoDB, Express.js, React.js, Node.js**
 
 - 📫 How to reach me **tsedeketechane@gmail.com**
 
