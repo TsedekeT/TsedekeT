@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tsedeke</h1>
 <h3 align="center">A passionate MERN (HTML, CSS, JS, MongoDB, Express.js, React.js, Node.js) stack developer from AAiT AAU</h3>
 
-- 🔭 I’m currently working on **Apple website clone**
+- 🔭 I’m currently working on **Netfilx website clone**
 
 - 🌱 I’m currently learning **Pursuing my software engineering degree at Addis Ababa University.**
-
-- 👯 I’m looking to collaborate on **Netfilx website clone**
 
 - 💬 Ask me about **HTML, CSS, JS, MongoDB, Express.js, React.js, Node.js**
 
