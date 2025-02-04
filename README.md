@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsedeke</h1>
-<h3 align="center">A passionate MERN (HTML, CSS, JS, MongoDB, Express.js, React.js, Node.js) stack developer from AAiT AAU</h3>
+<h3 align="center">A passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer and Pursuing a Bachelor of Software Engineering at Addis Ababa Institute of Technology (AAiT).</h3>
 
 - 🔭 I’m currently working on **Netfilx website clone**
 
